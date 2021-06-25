@@ -1,2 +1,2 @@
 # pyForecasting
-Python Forecasting Tool for Predictive Analytics
+Forecasting Tool for Predictive Analytics
